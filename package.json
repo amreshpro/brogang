@@ -1,0 +1,28 @@
+{
+  "name": "brogang",
+  "displayName": "Bro Gang Dark Theme",
+  "description": "A Bro Gang Dark theme created by me and my friends",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+"publisher": "brogang",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/Amresh9/brogang"
+	},
+  "categories": [
+    "Themes"
+  ],
+
+  "icon": "resources/icons/icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Bro Gang Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Bro Gang Dark Theme-color-theme.json"
+      }
+    ]
+  }
+}

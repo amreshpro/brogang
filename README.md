@@ -1,8 +1,7 @@
-<p align="">
-  <a href="https://marketplace.visualstudio.com/items?itemName=brogang.brogang" rel="noopener">
+ <a href="https://marketplace.visualstudio.com/items?itemName=brogang.brogang" rel="noopener">
  
-   ![alt text](resources/icons/logo1.JPG "Source control view")
-</p>
+   ![Imgur](https://i.imgur.com/nEL3muS.png"logo") </a>
+
 
 <h3 align="" >Bro Gang Dark Theme</h3>
 
@@ -34,27 +33,27 @@
    <!-- ![alt text](resources/images/js.PNG "Source control view") -->
 <h3 align="" id="js">JS</h3>
 
- ![JS](resources/images/js.PNG  "js view")
+ ![Imgur](https://i.imgur.com/24eun1O.png "js view")
 
 <h3 align="" id="cpp">CPP</h3>
 
-   ![alt text](resources/images/cpp.PNG "c++ view")
+ ![Imgur](https://i.imgur.com/xDdY1Ht.png "c++ view")
 
 <h3 align="" id="python">Python</h3>
 
-   ![alt text](resources/images/python.PNG "python view")
+   ![Imgur](https://i.imgur.com/rX60zPH.png "python view")
 <h3 align="" id="html">HTML</h3>
 
-   ![alt text](resources/images/html.PNG "HTML view")
+   ![Imgur](https://i.imgur.com/K7t84hS.png "html view")
 
 
 <h3 align="" id="css">CSS</h3>
 
-   ![alt text](resources/images/css.PNG "css view")
+   ![Imgur](https://i.imgur.com/S1toXIr.png "css view")
 
 <h3 align="" id="java">Java</h3>
 
-   ![alt text](resources/images/java.PNG "my java")
+   ![Imgur](https://i.imgur.com/WDrwz66.png "java view")
 
 
 
